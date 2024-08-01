@@ -1,0 +1,20 @@
+/* Signup.css */
+.custom-pink-btn {
+    background-color: rgb(159, 101, 136);
+    border-color: rgb(159, 101, 136);
+    color: black;
+  }
+  
+  .custom-pink-btn:hover {
+    background-color:rgb(159, 101, 136); ;
+    border-color:rgb(159, 101, 136);
+    color: white;
+  }
+  /* Adjust the width of form labels */
+.form-label {
+    width: 100px; /* Set the maximum width of the label */
+    display: inline-block; /* Make the label an inline-block element */
+    text-align: left; /* Align the label text to the left */
+  }
+  
+  

@@ -1,0 +1,16 @@
+
+
+.navbar {
+    background-color:  rgb(159, 101, 136);
+  }
+  
+  .navbar .nav-link {
+    color: rgb(5, 35, 41) !important;
+  }
+  
+  .navbar .nav-link:hover {
+    color: rgb(106, 172, 227)!important;
+  }
+  .navbar-brand {
+    color: black !important;
+  }
